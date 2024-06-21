@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+h5{
+    color: aliceblue;
+    background-color: blueviolet;
+    width: 100px;
+    height: 30px;
+    padding-left:50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: auto;
+    margin-top: 60px;
+    font-size: 20px;
+}
+h1 .style{
+    color: aqua;
+}
+button{
+    background: black;
+    color: aliceblue;
+    width: 180px;
+    height: 40px;
+}

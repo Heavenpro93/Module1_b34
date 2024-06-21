@@ -1,0 +1,10 @@
+div{
+    text-align: center;
+    margin: auto;
+    width: 1000px;
+    height: 200px;
+    border: 20px;
+    background-color: rgb(216, 216, 216)
+    
+}
+strong{color: red;}

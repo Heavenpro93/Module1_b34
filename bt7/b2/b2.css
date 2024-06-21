@@ -1,0 +1,26 @@
+div{
+    text-align: center;
+    width: 600px;
+    height: 120px;
+    border: 5px;
+    background-image: url(https://images2.thanhnien.vn/528068263637045248/2024/1/25/c991278688992373366c97ea4881536e-65a11ac5cff6b880-1706156502395619358819.jpg);
+    margin: auto;
+    color: white;
+}
+h2{
+    margin: 15px;
+    padding-top: 40px;
+}
+p{
+    margin-bottom: 50px;
+}
+button{
+    width: 360px;
+    height: 30px;
+    background-color: red;
+    border: 0px;
+    margin: auto;
+    color: white;
+}
+
+

@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border: 1px solid gray;
+    text-align: left;
+    background-color:#f5f5f5;
+    padding: 20px;
+}
+h1{ 
+    text-align: center;
+    margin: 0 auto;
+}
+footer{
+    width: 460px ; 
+    height: 540px;
+    margin: auto;
+    text-align: center;
+    border: 10px solid white;
+    background-color: #f5f5f5;
+    padding-top: 50px;
+}
+
+form div input {
+    width: 100%;
+}

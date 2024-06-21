@@ -1,0 +1,23 @@
+h3{
+    text-decoration:dotted
+    letter-spacing: 10px;
+    font-family: "Arial";
+    font-size: 50px;
+    font-weight:normal;
+    font-style:italic;
+    
+}
+body{
+    margin-left: 0;
+    width: 100%;
+    text-align: center;
+    
+}
+p{
+color: aliceblue;
+background-color: darkkhaki;
+}
+p .style1{
+    color:rgb(150, 22, 126) ;
+    background-color: rgb(28, 86, 167);
+}
